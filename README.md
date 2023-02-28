@@ -5,15 +5,17 @@ Esse é um manual para guiar o andamento de projetos de ciência de dados, a fim
 # 1- Manual Dos Dados;
 
 <aside>
-💡 Verificar os dados que são necessários para começar a construir o projetos e verificar algumas de suas propriedades. Assim já terá um certa noção de alguns processamentos necessário durante o decorrer do projeto
+💡 Verificar os dados que são necessários para começar a construir o projetos e verificar algumas de suas propriedades. Assim já terá uma certa noção de alguns processamentos que vão ser necessários ser realizado no decorrer do projeto.
 
 </aside>
 
-Os Metadados são basicamente as propriedades da(s) base de dado(s) que vai ser utilizado para a realização do projeto. 
+Algumas fontes de dados já possuem Metadados, que traz basicamente todas as propriedades do conjunto de dados em questão. Como o tipo de objeto de cada coluna, tamanho do arquivo, tamanho do dataset… o que já facilita bastante a nossa vida.
+
+Porém nem todas as fontes vão ter de forma tão simples e fácil esses metadados, por isso gosto sempre de criar um resumo com algumas propriedades básicas do conjunto de dados, o que me dá um noção do que vou precisar realizar e assim que consigo ter uma melhor dimensão das análises.
 
 [Template](https://www.notion.so/Template-000891d83baa45f5913b6afb2f72492d)
 
-- Localização da fonte de dados (Sharepoint, Web…);
+- Localização da fonte de dados (Sharepoint, Web, Postgree, Kaggle…);
 - Verificar credenciais para acesso dos dados;
 
 - Atualizações dos dados (em quanto tempo esses dados são atualizados?)
@@ -21,11 +23,6 @@ Os Metadados são basicamente as propriedades da(s) base de dado(s) que vai ser 
 - Formato do arquivo;
 - Verificar encoding;
 - Delimitador;
-- 
-
-```python
-
-```
 
 # 2. Data Wrangling
 
