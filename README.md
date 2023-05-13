@@ -1,7 +1,7 @@
 # Breve Guia para Projetos de Análise e Ciência de Dados
-Esse é um manual simples e prático para guiar o andamento de projetos de análise e ciência de dados utilizando, a fim de deixar o processo de análise mais organizado aumentando a produtividade para focar mais nos processos no seu código, disponibilizando alguns templates para ser utilizados como base e algumas dicas de código para deixar o seu projeto mais clean e objetivo.
+Esse é um manual simples e prático para guiar o andamento de projetos de análise e ciência de dados utilizando python, a fim de deixar o processo de análise mais organizado aumentando a produtividade para focar mais nos processos no seu código, disponibilizando alguns templates para ser utilizados como base e algumas dicas de código para deixar o seu projeto mais clean e objetivo.
 
-Todos as dicas e templates foram criados do zeros e são os que utilizo em todos os meu projetos de análise de dados
+Todos as dicas e templates foram criados do zeros e são os que utilizo em todos os meus projetos de análise de dados
 
 Templates;
 
