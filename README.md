@@ -1,16 +1,32 @@
-# Breve Guia para Projetos de Análise e Ciência de Dados
+# Breve Guia do CRISP-DM
+
+## O que é CRISP-DM?
+CRISP-DM é a abreviação de Cross Industry Standard Process for Data Mining, que pode ser traduzido como Processo Padrão Inter-Indústrias para Mineração de Dados. É um modelo de processo de mineração de dados que descreve abordagens comumente usadas por especialistas em mineração de dados para atacar problemas.
+
+## Para quer serve esse guia?
+
 Esse é um manual simples e prático para guiar o andamento de projetos de análise e ciência de dados utilizando python, a fim de deixar o processo de análise mais organizado aumentando a produtividade para focar mais nos processos no seu código, disponibilizando alguns templates para ser utilizados como base e algumas dicas de código para deixar o seu projeto mais clean e objetivo.
 
-Todos as dicas e templates foram criados do zeros e são os que utilizo em todos os meus projetos de análise de dados
+## 1 - Entendendo o Problema:
+A primeira etapa para começar um projeto de Data Science, é entender o que você deseja realizar, o que análisar, e por qual motivo deve ser analisado. Isso é de extrema importância pois vai influenciar todo o projeto
 
-Templates;
+### 1.1 - Analisando a Situação Atual:
+Isso envolve uma investigação mais detalhada sobre todos os recursos, restrições, suposições e outros fatores que você precisará considerar ao determinar sua meta de análise de dados e plano de projeto.
 
-- [Trello - Gerencimento de Tarefas](https://trello.com/b/Cb7Rzdex/data-analysis);
-- [Figma - Pipeline de Dados](https://www.figma.com/file/a6JA3XC5vdV7VTSBWreZ7H/Template?node-id=0%3A1&t=EfKPDgftA4OTLkSp-1);
-[Figma - Mocukp]
+### 1.2 - Recursos:
+Incluam qu
 
+### 1.3 - Steakholders
+Quem são as pessoas que estão interessadas nesse projeto, e como elas podem contrbuir para o resultado final?
 
-## 1 - Origem dos Dados;
+Time:
+Scrum Master:
+Product Owner:
+Cliente:
+
+### 1.4 Requirimento do Projeto:
+
+## 2 - Origem dos Dados;
 
 <aside>
 💡 Verificar os dados que são necessários para começar a construir o projetos e verificar algumas de suas propriedades. Assim já terá uma certa noção de alguns processamentos que vão ser necessários ser realizado no decorrer do projeto.
